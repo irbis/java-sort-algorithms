@@ -1,0 +1,3 @@
+Well known algorithms to sort data on Java. All algorithms use generics
+(not java.lang.Object) as datatype and java.util.Comparator interface to
+compare data.
